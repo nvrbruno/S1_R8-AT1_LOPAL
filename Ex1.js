@@ -13,4 +13,4 @@ for (let i = 0; i < 10; i++) {
     }
 }
 
-alert("A soma dos números pares é: " + somaPares);
+alert(`A soma dos números pares é: ${somaPares}`);
